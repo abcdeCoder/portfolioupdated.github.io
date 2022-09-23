@@ -1,0 +1,326 @@
+[
+  {
+    "name": "G-chatting",
+    "desc": "This is fuul stack React NAtive as frontend and Node.js as backend you can live chat with your Peers and OTP varification.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/abcdeCoder/G-chatting_frontend/blob/main/Screenshot_2022-09-18-14-49-19-868_com.chatbes.jpg",
+      "code": "https://github.com/abcdeCoder/G-chatting_frontend"
+    }
+  },
+  {
+    "name": "vedio Calling",
+    "desc": "In this vedio Calling app in which 2 user can make video call.",
+    "image": "sppuprepandroid",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/abcdeCoder/vedio_calling_application/blob/main/base.apk",
+      "code": "https://github.com/abcdeCoder/vedio_calling_application"
+    }
+  },
+  {
+    "name": "Global Connect",
+    "desc": "Full-Stack Global Connect built using MERN stack and realtime chat with the help of socket.iO",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://globel-connect.herokuapp.com/",
+      "code": "https://github.com/abcdeCoder/Global_connect_backend"
+    }
+  },
+  {
+    "name": "GV Mart",
+    "desc": "Full-Stack GV Mart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://gv-mart.herokuapp.com/",
+      "code": "https://github.com/abcdeCoder/Gv_mart_frontend"
+    }
+  },
+  {
+    "name": "Resume Maker",
+    "desc": "ReactJS Basic Resume MAker which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://silver-florentine-8b0464.netlify.app/",
+      "code": "https://github.com/abcdeCoder/resume_maker"
+    }
+  },
+  {
+    "name": "GlobalDevelopmentCommunity",
+    "desc": "Global Development Community is MERN stack project and developer can connect through and like post other post .",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://amazing-alpaca-7a0467.netlify.app/",
+      "code": "https://github.com/abcdeCoder/global_development_community_Frontend"
+    }
+  },
+  {
+    "name": "Library Management System",
+    "desc": "Full-Stack Library Management System Using LAMP Stack. With all major features and  QR Code Genrater and based on that QR code Attendance is Marked .",
+    "image": "flipkartphp",
+    "category": "lamp",
+    "links": {
+      "view": "https://gvproject.ml/library_qrcode/",
+      "code": "https://github.com/abcdeCoder/library-management-system.github.io"
+    }
+  },
+  {
+    "name": "Sharp Study",
+    "desc": "This project helps all students develop the knowledge and skills they need to be engaged and become productive members of society .",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://abcdecoder.github.io/Sharp-Study.github.io/",
+      "code": "https://github.com/abcdeCoder/Sharp-Study.github.io"
+    }
+  },
+  {
+    "name": "Quick Connect",
+    "desc": "Quick Connect is MERN stack Project In which You can Connect with Your Loved Ones.",
+    "image": "webuiclones",
+    "category": "mern",
+    "links": {
+      "view": "https://adorable-cat-3523f7.netlify.app/",
+      "code": "https://github.com/abcdeCoder/Quick_connect"
+    }
+  },
+  {
+    "name": "GV FoodWala",
+    "desc": "GV FoodWala is MERN stack Project In Which Custumer Can Make order through paytm.",
+    "image": "cryptotracker",
+    "category": "mern",
+    "links": {
+      "view": "https://gvfoodwahalla.herokuapp.com/",
+      "code": "https://github.com/abcdeCoder/Gv_foodwala"
+    }
+  },
+  {
+    "name": "Face Recognition Exam Attendance System",
+    "desc": "Face Recognition Exam Attendance System is MERN stack with face APi and with tanserflow.js  use Mark Attendance Candidate.",
+    "image": "hulu",
+    "category": "mern",
+    "links": {
+      "view": "https://mernexam.herokuapp.com/",
+      "code": "https://github.com/abcdeCoder/face_recognition_Exam_attendance_system"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. can not provide Much Information repository is private!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Affinity Design",
+    "desc": "This Replicate of affinity Design in html .",
+    "image": "composey",
+    "category": "basicweb",
+    "links": {
+      "view": "https://abcdecoder.github.io/Affinity-Designer.github.io/",
+      "code": "https://github.com/abcdeCoder/Affinity-Designer.github.io"
+    }
+  },
+ 
+  {
+    "name": "Online Examination System",
+    "desc": "Online Examination System Is full stack PHP and datbase on Mysql this two side application admin and User Admin can set paper and user can give that paper",
+    "image": "tsfbank",
+    "category": "lamp",
+    "links": {
+      "view": "https://gvproject.ml/Online_Examination_System/",
+      "code": "https://github.com/abcdeCoder/Online-Examination-System-github.io"
+    }
+  },
+  {
+    "name": "Easy Data Entry",
+    "desc": "Thsi basic data Entery Project In which User can provide data in frontend and store data in spreed sheet in backend.",
+    "image": "bootstrapportfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "https://abcdecoder.github.io/Data.github.io/",
+      "code": "https://github.com/abcdeCoder/Data.github.io"
+    }
+  },
+  {
+    "name": "Replica",
+    "desc": "In my first intership i have to make replica of given design .",
+    "image": "rep",
+    "category": "basicweb",
+    "links": {
+      "view": "https://abcdecoder.github.io/Task.github.io/",
+      "code": "https://github.com/abcdeCoder/Task.github.io"
+    }
+  },
+  {
+    "name": "My Poojabox Clone",
+    "desc": "I have to make my poojabox Clone task given in Internship.",
+    "image": "foodicious",
+    "category": "basicweb",
+    "links": {
+      "view": "https://abcdecoder.github.io/mypoojabox_clone.github.io/",
+      "code": "https://github.com/abcdeCoder/mypoojabox_clone.github.io"
+    }
+  },
+  {
+    "name": "Calendar Project",
+    "desc": "In this project I have to make a calander In which data is store in local and user can add any event in Calendar .",
+    "image": "foodwebsite",
+    "category": "basicweb",
+    "links": {
+      "view": "https://abcdecoder.github.io/Calendar_project.github.io/",
+      "code": "https://github.com/abcdeCoder/Calendar_project.github.io"
+    }
+  },
+  {
+    "name": "FaceDetectionTensorflowjs",
+    "desc": "This Project is based On React.js and Tensorflowjs for Face Detection .",
+    "image": "webchat",
+    "category": "mern",
+    "links": {
+      "view": "https://facerecoganisation.herokuapp.com/",
+      "code": "https://github.com/abcdeCoder/face_detection_tensorflowjs-mastergithub.io"
+    }
+  },
+
+ 
+  {
+    "name": "Online Payroll",
+    "desc": "Online Payroll is full stack Php with msql database and this application is two sided admin side and user side admin payrool user salary slip at end of Mounth .",
+    "image": "phppblform",
+    "category": "lamp",
+    "links": {
+      "view": "https://gvproject.ml/online_payroll/",
+      "code": "https://github.com/abcdeCoder/online_payroll_github.io"
+    }
+  },
+  {
+    "name": "Student Attendance",
+    "desc": "Student Attendance is basicaly My SDC Project in which Teacher can digitaly enter Attendance .",
+    "image": "atte",
+    "category": "lamp",
+    "links": {
+      "view": "https://gvproject.ml/StudentAttendance/",
+      "code": "https://github.com/abcdeCoder/StudentAttendance.github.io"
+    }
+  },
+  {
+    "name": "Vote System",
+    "desc": "Vote System is full stack Php with msql database and this application is two sided admin side and user side admin admin make voter system and user can give vote  .",
+    "image": "vote",
+    "category": "lamp",
+    "links": {
+      "view": "https://gvproject.ml/online_payroll/",
+      "code": "https://github.com/abcdeCoder/online_payroll_github.io"
+    }
+  },
+ {
+    "name": "Smart Exam",
+    "desc": "This project is two side Teacher and student and i used Plalgrothim in ML for matches cracter NLTK (Natural Language Toolkit) for converting convert text into numbers  .",
+    "image": "examss",
+    "category": "DJangoml",
+    "links": {
+      "view": "http://gvprojects.ml:3000/",
+      "code": "https://github.com/abcdeCoder/Smart_Exam_backend"
+    }
+  },
+ {
+    "name": "Smart Clinic",
+    "desc": "Smart Clinic is Three Side Application( Doctor , Patient , Admin )This project predict with help of modelsdisease and Patient can live chat with doctor with  socket.io.",
+    "image": "examee",
+    "category": "DJangoml",
+    "links": {
+      "view": "http://gvprojects.ml:8001/",
+      "code": "https://github.com/abcdeCoder/Smart_clinic"
+    }
+  },
+
+  {
+    "name": "VR Portfolio",
+    "desc": "This is Portfolio in 3d me and my fellow teammate internship made this together made with react and three.js and import models.",
+    "image": "3d",
+    "category": "models",
+    "links": {
+      "view": "https://gvportfolio-ad926.web.app/",
+      "code": "https://github.com/abcdeCoder/portfolio_frontend"
+    }
+  },
+  {
+    "name": "AR VR Mall",
+    "desc": "This project was made in Team(Me,shubham goel,shubham sharan) you can chat and video call and see product in AR .",
+    "image": "malll",
+    "category": "models",
+    "links": {
+      "view": "https://hubs.mozilla.com/yju9k2r/remote-misty-universe",
+      "code": "https://github.com/AR-VR-Mall-Projects/AR_VR_mall_project.github.io"
+    }
+  },
+  {
+    "name": "Vertiual Room Vedio Model",
+    "desc": "this Project is Practice that how can We integrate React live chat with socket.io in three.js .",
+    "image": "moleee",
+    "category": "models",
+    "links": {
+      "view": "https://viocechat.herokuapp.com",
+      "code": "https://github.com/abcdeCoder/Vertiual_room_vedio_model.github.io"
+    }
+  },
+  {
+    "name": "Sudokus Solver Visualizer.",
+    "desc": "This project is based On  5 Algorithms in this project: Backtracking, Dancing Links (Algorithm X), Greedy Best First Search, Reverse Backtracking and SB .",
+    "image": "sudo",
+    "category": "Structure",
+    "links": {
+      "view": "https://abcdecoder.github.io/sudokus-solver-visualizer.github.io/",
+      "code": "https://github.com/abcdeCoder/Vertiual_room_vedio_model.github.io"
+    }
+  },
+  {
+    "name": "Path Finding",
+    "desc": "This project is used find Shortest find  based on Dijkstra's Algorithm  Greedy Best-first Search Swarm Algorithm Convergent Swarm Algorithm Bidirectional Swarm Algorithm .",
+    "image": "path",
+    "category": "Structure",
+    "links": {
+      "view": "https://abcdecoder.github.io/Pathfinding.github.io/",
+      "code": "https://github.com/abcdeCoder/Pathfinding.github.io"
+    }
+  },
+  {
+    "name": "Huffman Encoding File",
+    "desc": "This Project is based On Huffman Encoding In which The File Size Is decrease as data inside file compressed as per Huffman Encoding .",
+    "image": "hpffman",
+    "category": "Structure",
+    "links": {
+      "view": "https://github.com/abcdeCoder/Huffman-Encoding-File.github.io",
+      "code": "https://github.com/abcdeCoder/Vertiual_room_vedio_model.github.io"
+    }
+  },
+  {
+    "name": "Hospital Management System",
+    "desc": "Hospital Management System project made in C++ in which you can simpliy input record of client and that will store and this can be display.",
+    "image": "cpp",
+    "category": "Structure",
+    "links": {
+      "view": "https://github.com/abcdeCoder/C-Hospital-Management-System-",
+      "code": "https://github.com/abcdeCoder/C-Hospital-Management-System-"
+    }
+  },
+  {
+    "name": "TIC TAC TOE",
+    "desc": "This project is game of tic tac for fun with our friend this 2-player game and you can also play with AI which based on minimax algorithm and  used Three.js .",
+    "image": "tic",
+    "category": "Structure",
+    "links": {
+      "view": "https://game-6c092.web.app/",
+      "code": "https://github.com/abcdeCoder/Crossgame"
+    }
+  }
+]
