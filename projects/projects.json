@@ -228,7 +228,7 @@
     "image": "examss",
     "category": "DJangoml",
     "links": {
-      "view": "http://gvprojects.ml:3000/",
+      "view": "http://gvproject.ml:3000/",
       "code": "https://github.com/abcdeCoder/Smart_Exam_backend"
     }
   },
@@ -238,7 +238,7 @@
     "image": "examee",
     "category": "DJangoml",
     "links": {
-      "view": "http://gvprojects.ml:8001/",
+      "view": "http://gvproject.ml:8001/",
       "code": "https://github.com/abcdeCoder/Smart_clinic"
     }
   },
