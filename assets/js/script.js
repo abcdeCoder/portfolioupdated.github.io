@@ -46,7 +46,7 @@ $(document).ready(function () {
                 console.log('SUCCESS!', response.status, response.text);
                 document.getElementById("contact-form").reset();
                 // alert("Form Submitted Successfully");
-                new swal("Congrats!", ", Your Message is Send! I will Contact you as soon As possibale", "success");
+                new swal("Congrats!", " Your Message is Send to Gaurav Verma! Gaurav Verma will Contact you as soon As possibale", "success");
             }, function (error) {
                 console.log('FAILED...', error);
                 alert("Form Submission Failed! Try Again");

@@ -25,7 +25,7 @@
     "image": "instagrammern",
     "category": "mern",
     "links": {
-      "view": "https://globel-connect.herokuapp.com/",
+      "view": "https://globalconnectbackend-production.up.railway.app",
       "code": "https://github.com/abcdeCoder/Global_connect_backend"
     }
   },
@@ -35,7 +35,7 @@
     "image": "flipkartmern",
     "category": "mern",
     "links": {
-      "view": "https://gv-mart.herokuapp.com/",
+      "view": "https://rich-pear-jay-suit.cyclic.app",
       "code": "https://github.com/abcdeCoder/Gv_mart_frontend"
     }
   },
@@ -55,7 +55,7 @@
     "image": "reactprojects",
     "category": "mern",
     "links": {
-      "view": "https://amazing-alpaca-7a0467.netlify.app/",
+      "view": "https://neon-valkyrie-06c7e8.netlify.app",
       "code": "https://github.com/abcdeCoder/global_development_community_Frontend"
     }
   },
@@ -85,7 +85,7 @@
     "image": "webuiclones",
     "category": "mern",
     "links": {
-      "view": "https://adorable-cat-3523f7.netlify.app/",
+      "view": "https://exquisite-bavarois-a4f55f.netlify.app",
       "code": "https://github.com/abcdeCoder/Quick_connect"
     }
   },
@@ -95,7 +95,7 @@
     "image": "cryptotracker",
     "category": "mern",
     "links": {
-      "view": "https://gvfoodwahalla.herokuapp.com/",
+      "view": "https://wild-fez-ant.cyclic.app",
       "code": "https://github.com/abcdeCoder/Gv_foodwala"
     }
   },
@@ -105,7 +105,7 @@
     "image": "hulu",
     "category": "mern",
     "links": {
-      "view": "https://mernexam.herokuapp.com/",
+      "view": "https://facerecognitionexam-production.up.railway.app",
       "code": "https://github.com/abcdeCoder/face_recognition_Exam_attendance_system"
     }
   },
@@ -186,7 +186,7 @@
     "image": "webchat",
     "category": "mern",
     "links": {
-      "view": "https://facerecoganisation.herokuapp.com/",
+      "view": "https://luxury-queijadas-1e3106.netlify.app",
       "code": "https://github.com/abcdeCoder/face_detection_tensorflowjs-mastergithub.io"
     }
   },
