@@ -25,7 +25,7 @@
     "image": "instagrammern",
     "category": "mern",
     "links": {
-      "view": "https://globalconnectbackend-production.up.railway.app",
+      "view": "https://global-connect.onrender.com",
       "code": "https://github.com/abcdeCoder/Global_connect_backend"
     }
   },
@@ -55,7 +55,7 @@
     "image": "reactprojects",
     "category": "mern",
     "links": {
-      "view": "https://neon-valkyrie-06c7e8.netlify.app",
+      "view": "https://globaldevlopmentcommunity.pages.dev/",
       "code": "https://github.com/abcdeCoder/global_development_community_Frontend"
     }
   },
@@ -85,7 +85,7 @@
     "image": "webuiclones",
     "category": "mern",
     "links": {
-      "view": "https://exquisite-bavarois-a4f55f.netlify.app",
+      "view": "https://quickconnect-egk.pages.dev/",
       "code": "https://github.com/abcdeCoder/Quick_connect"
     }
   },
@@ -105,7 +105,7 @@
     "image": "hulu",
     "category": "mern",
     "links": {
-      "view": "https://facerecognitionexam-production.up.railway.app",
+      "view": "https://face-recoganisation.onrender.com/",
       "code": "https://github.com/abcdeCoder/face_recognition_Exam_attendance_system"
     }
   },
@@ -218,8 +218,8 @@
     "image": "vote",
     "category": "lamp",
     "links": {
-      "view": "https://gvproject.ml/online_payroll/",
-      "code": "https://github.com/abcdeCoder/online_payroll_github.io"
+      "view": "https://gvproject.ml/vote_system/",
+      "code": "https://github.com/abcdeCoder/vote_system_github.io"
     }
   },
  {
@@ -249,7 +249,7 @@
     "image": "3d",
     "category": "models",
     "links": {
-      "view": "https://gvportfolio-ad926.web.app/",
+      "view": "https://gauravverma-23c6b.web.app/",
       "code": "https://github.com/abcdeCoder/portfolio_frontend"
     }
   },
@@ -263,16 +263,7 @@
       "code": "https://github.com/AR-VR-Mall-Projects/AR_VR_mall_project.github.io"
     }
   },
-  {
-    "name": "Vertiual Room Vedio Model",
-    "desc": "this Project is Practice that how can We integrate React live chat with socket.io in three.js .",
-    "image": "moleee",
-    "category": "models",
-    "links": {
-      "view": "https://viocechat.herokuapp.com",
-      "code": "https://github.com/abcdeCoder/Vertiual_room_vedio_model.github.io"
-    }
-  },
+  
   {
     "name": "Sudokus Solver Visualizer.",
     "desc": "This project is based On  5 Algorithms in this project: Backtracking, Dancing Links (Algorithm X), Greedy Best First Search, Reverse Backtracking and SB .",
